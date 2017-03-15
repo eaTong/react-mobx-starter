@@ -1,2 +1,2 @@
-# react-mobx-starter
-react &amp;&amp; mobx starter
+# electron-mobx
+fast starter for react &amp;&amp; mobx

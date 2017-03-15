@@ -1,10 +1,10 @@
 /**
- * Created by eatong on 16-12-6.
+ * Created by eatong on 17-3-13.
  */
 import {observable, action, computed, toJS} from 'mobx';
 
 class Todo {
-  @observable items=[];
+  @observable items = [];
 
   constructor() {
   }
