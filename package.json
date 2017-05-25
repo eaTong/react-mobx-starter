@@ -9,11 +9,6 @@
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
     "dist": "cross-env NODE_ENV=production webpack  --config webpack.production.config.js",
-    "electron": "cross-env NODE_ENV=development electron ./app/main",
-    "build-linux": "build -l",
-    "build-win": "build --win",
-    "build-mac": "build --mac",
-    "build-all": "build -mwl"
   },
   "keywords": [
     "electron",
@@ -40,8 +35,6 @@
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-0": "^6.22.0",
     "css-loader": "^0.27.2",
-    "electron": "^1.6.2",
-    "electron-builder": "^15.4.3",
     "html-webpack-plugin": "^2.28.0",
     "style-loader": "^0.13.2",
     "webpack": "^2.2.1",
