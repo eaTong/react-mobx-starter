@@ -18,7 +18,6 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
     "mobx": "^5.9.0",
     "mobx-react": "^5.4.3",
     "react": "^16.7.0",
