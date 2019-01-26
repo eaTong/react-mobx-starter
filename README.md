@@ -1,2 +1,9 @@
-# electron-mobx
-fast starter for react &amp;&amp; mobx
+## react-mobx-starter
+
+simple starter for `react` and `MobX`, with `less`,
+
+### start development
+> npm start
+
+### dist package
+> npm dist
